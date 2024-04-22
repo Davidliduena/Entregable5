@@ -5,7 +5,7 @@ const URL_BASE = '/api/v1/movies'
 const movie = {
     name:"El rey de la comedia",
     image:"https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsXlMYWsZz-4P2MLeBgEx_xP5LXG90MGDqraWiEE6GGw&s.wikimedia.org/wikipedia/commons/thumb/3/3d/Terminator_%28franchise_logo%29.svg/420px-Terminator_%28franchise_logo%29.svg.png",
-    synopsis:"En ella Cuenta la historia de Rupert Pupkin (Robert De Niro), un comediante desesperado por conseguir una recomendación de su ídolo, el famoso cómico Jerry Langford (Jerry Lewis). La película trata sobre el culto a la celebridad y la cultura de los medios estadounidenses. interpreta al Terminator, un ciborg asesino enviado a través del tiempo desde el año 2029 a 1984 para asesinar a Sarah Connor",
+    synpsis:"En ella Cuenta la historia de Rupert Pupkin (Robert De Niro), un comediante desesperado por conseguir una recomendación de su ídolo, el famoso cómico Jerry Langford (Jerry Lewis). La película trata sobre el culto a la celebridad y la cultura de los medios estadounidenses. interpreta al Terminator, un ciborg asesino enviado a través del tiempo desde el año 2029 a 1984 para asesinar a Sarah Connor",
     releaseYear:"1982"
 };
 let movieId
